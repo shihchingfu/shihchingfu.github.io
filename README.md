@@ -1,6 +1,6 @@
 # shihchingfu.github.io
 
-## ResBaz Perth 2019
+## R primers
 
-* [Introduction to R 
-Markdown](https://shihchingfu.github.io/intro-to-rmd)
+* [Introduction to R Markdown](https://shihchingfu.github.io/intro-to-rmd/)
+* [Importing data into R](https://shihchingfu.github.io/importing-data/)
