@@ -4,3 +4,4 @@
 * [Importing data into R](https://shihchingfu.github.io/importing-data/)
 * [`pwr` package Primer](https://shihchingfu.github.io/pwr-examples/)
 * [`tidyr` Tutorial](https://shihchingfu.github.io/tidyr-tutorial/)
+* [Tuning kNN using `caret`](https://shihchingfu.github.io/knn-caret-example/)
