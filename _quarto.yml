@@ -3,11 +3,27 @@ project:
   output-dir: docs
 
 website:
-  title: "S. C. Fu"
+  title: "Shih Ching Fu"
+  page-footer:
+    center:
+      - icon: github
+        text: Github
+        href: https://github.com/shihchingfu
+      - icon: twitter
+        text: Twitter
+        href: https://twitter.com/shihchingfu
+      - icon: linkedin
+        text: LinkedIn
+        href: https://www.linkedin.com/in/shihchingfu
+      - icon: envelope
+        text: Email 
+        href: mailto:shihching.fu@gmail.com
   navbar:
+    title: false
+    search: false
     left:
       - href: index.qmd
-        text: Home
+        text: Shih Ching Fu
       - href: interests.qmd
         text: Interests
       - href: publications.qmd

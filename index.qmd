@@ -1,10 +1,10 @@
 ---
-title: "Shih Ching Fu"
+title: "Welcome"
 ---
 
-Welcome to my academic website where you can find links to my recent publications, talks, and tutorials.
+Welcome to my academic website where you can find links to my publications, talks, and R tutorials.
 
-I'm currently based at [Curtin University](https://curtin.edu.au) as a consultant biostatistician at the [Clinical Trials Enablement Platform WA](https://ccre.org.au/ctep-wa/) (CTEP-WA).
+I'm currently based at [Curtin University](https://curtin.edu.au) as a Research Associate in the [Clinical Trials Enablement Platform WA](https://ccre.org.au/ctep-wa/) (CTEP-WA); funded by a [WAHTN](https://wahtn.org) Biostatistican Fellowship.
 
 > “To understand God's thoughts we must study statistics, for these are the measure of his purpose.”<br>
 >   -- Florence Nightingale 
