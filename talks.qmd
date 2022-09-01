@@ -1,0 +1,9 @@
+---
+title: "Talks"
+---
+
+[Using Bayesian Networks to Identify Significant Crime Events](/pdf/YSW2020.pdf), Young Statisticians Workshop, 30 September 2020. Perth, Western Australia.
+
+[Kriging vs Geographically Weighted Regression for Analysing Farm Experiments](/pdf/ECSSC2021.pdf), Early Career and Student Statisticians Conference, 24 July -- 1 August 2021. Online.
+
+[Essential Statistical Concepts for Understanding the COVID-19 Pandemic](/pdf/PEG_20220330.pdf), Perth Epidemiology Group, 30 March 2022. Online.

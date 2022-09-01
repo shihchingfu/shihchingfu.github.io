@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Shih Ching Fu"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications
+      - href: interests.qmd
+        text: Interests
+      - href: talks.qmd
+        text: Talks
+      - href: primers.qmd
+        text: Primers
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

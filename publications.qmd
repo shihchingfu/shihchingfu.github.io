@@ -1,0 +1,26 @@
+---
+title: "Selected Publications"
+---
+
+[0000-0002-9077-6026](https://orcid.org/0000-0002-9077-6026)
+
+Rees, J., Fu, S. C., Lo, J., Sambell, R., Lewis J. R., Christophersen, C. T., Byrne, M. F., Newton, R. U., Boyle, S., Devine, A. (2022). How a 7-Week Food Literacy Cooking Program Affects Cooking Confidence and Mental Health: Findings of a Quasi-Experimental Controlled Intervention Trial, _Frontiers in Nutrition_, Volume 9, March. <https://doi.org/10.3389/fnut.2022.802940>
+
+Maisey, G., Cattani, M., Devine, A., Lo, J., Fu, S. C., Dunican, I. C. (2022). Digging for data: How sleep is losing out to roster design, sleep disorders, and lifestyle factors, _Applied Ergonomics_, Volume 99, February. <https://doi.org/10.1016/j.apergo.2021.103617>
+
+Reyes, A., Bartlett D. M., Rankin T. J., Zaenker P., Turner K., Teo W-P., Fu S. C., et al. (2021). Clinical Determinants of Dual Tasking in People With Premanifest Huntington Disease. _Physical Therapy_, January. <https://doi.org/10.1093/ptj/pzab016>
+
+Baddeley, A., Brown, W., Milne, R. K., Nair, G., Rakshit, S., Lawrence, T., Phatak, A., Fu, S. C. (2020). Optimal thresholding of predictors in mineral prospectivity analysis. _Natural Resources Research_. <https://doi.org/10.1007/s11053-020-09769-2>
+
+Trott, C. M., Fu, S. C., Murray, S. G., Jordan, C. H., Line, J. L. B., Barry, N., … Walker, M. (2019). Robust statistics towards detection of the 21 cm signal from the Epoch of Reionization. _Monthly Notices of the Royal Astronomical Society_, 486(4), 5766–5784. <https://doi.org/10.1093/mnras/stz1207>
+
+Holden, E. J., Fu, S. C., Kovesi, P., Dentith, M., Bourne, B., & Hope, M. (2011). Automatic identification of responses from porphyry intrusive systems within magnetic data using image analysis. _Journal of Applied Geophysics_, 74(4), 255–262. <https://doi.org/10.1016/j.jappgeo.2011.06.016>
+
+Fu, S. C., & Kovesi, P. (2010). Robust extraction of optic flow differentials for surface reconstruction. _Proceedings - 2010 Digital Image Computing: Techniques and Applications_, DICTA 2010, 468–473. <https://doi.org/10.1109/DICTA.2010.85>
+
+Holden, E. J., Kovesi, P., Dentith, M. C., Wedge, D., Wong, J. C., & Fu, S. C. (2010). Detection of regions of structural complexity within aeromagnetic data using image analysis. _International Conference Image and Vision Computing New Zealand_, 1–8. <https://doi.org/10.1109/IVCNZ.2010.6148856>
+
+Fu, S. C., & Milne, G. (2004). A Flexible Automata Model for Disease Simulation. In _Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics_) (Vol. 3305, pp. 642–649). <https://doi.org/10.1007/978-3-540-30479-1_66>
+
+> "Don’t forget that statisticians are the free-est of all scientists - they can work on anything."<br>
+>   -- David R. Brillinger 

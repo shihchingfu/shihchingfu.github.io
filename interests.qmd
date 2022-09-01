@@ -1,0 +1,20 @@
+---
+title: "Research Interests"
+---
+
+* Statistical modelling & simulation
+* Bayesian inference
+* Statistics education & consulting
+* Computer vision & image processing
+
+# Other
+
+* Data [carpenter](https://datacarpentry.org/)
+* Novice [lockpicker](https://archive.org/details/MITLockGuide)
+* [Sherlock](https://standardebooks.org/ebooks/?query=sherlock) tragic
+* Dilettante [golfer](https://web.archive.org/web/20200815185823/http://golfwa.org.au/common/content/past14yearchampions)
+* Budding [Julian](https://julialang.org/)
+* Follower of Jesus Christ
+
+> "The best thing about being a statistician is that you get to play in everyone's backyard."<br>
+>   -- John Tukey
