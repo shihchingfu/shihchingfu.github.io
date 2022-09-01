@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Shih Ching Fu BSc(Hons) MSc GStat",
+    "title": "Shih Ching Fu",
     "section": "",
-    "text": "Shih Ching has previously been a researcher in mineral exploration, a product owner at a software startup, a biostatistical consultant at a university, and worked with data from astronomy, law enforcement, defence, agriculture, and health care.\n\n“To understand God’s thoughts we must study statistics, for these are the measure of his purpose.” – Florence Nightingale"
+    "text": "I’m currently based at Curtin University as a consultant biostatistician at the Clinical Trials Enablement Platform WA (CTEP-WA).\n\n“To understand God’s thoughts we must study statistics, for these are the measure of his purpose.” – Florence Nightingale"
   },
   {
     "objectID": "interests.html",
@@ -30,6 +30,20 @@
   {
     "objectID": "talks.html",
     "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Kriging vs Geographically Weighted Regression for Analysing Farm Experiments, Early Career and Student Statisticians Conference, 24 July – 1 August 2021. Online.\nEssential Statistical Concepts for Understanding the COVID-19 Pandemic, Perth Epidemiology Group, 30 March 2022. Online."
+  },
+  {
+    "objectID": "rtutorials.html",
+    "href": "rtutorials.html",
+    "title": "R Tutorials",
+    "section": "",
+    "text": "Introduction to R Markdown\nImporting data into R\npwr package Primer\ntidyr Tutorial\nTuning kNN using caret"
+  },
+  {
+    "objectID": "slides.html",
+    "href": "slides.html",
     "title": "Talks",
     "section": "",
     "text": "Kriging vs Geographically Weighted Regression for Analysing Farm Experiments, Early Career and Student Statisticians Conference, 24 July – 1 August 2021. Online.\nEssential Statistical Concepts for Understanding the COVID-19 Pandemic, Perth Epidemiology Group, 30 March 2022. Online."

@@ -3,25 +3,23 @@ project:
   output-dir: docs
 
 website:
-  title: "Shih Ching Fu"
+  title: "S. C. Fu"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: publications.qmd
-        text: Publications
       - href: interests.qmd
         text: Interests
-      - href: talks.qmd
-        text: Talks
-      - href: primers.qmd
-        text: Primers
+      - href: publications.qmd
+        text: Publications
+      - href: slides.qmd
+        text: Slides
+      - href: rtutorials.qmd
+        text: R Tutorials
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
-
+    theme: spacelab
+    
 
 

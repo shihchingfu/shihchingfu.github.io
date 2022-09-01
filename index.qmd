@@ -1,10 +1,10 @@
 ---
-title: "Shih Ching Fu _BSc(Hons) MSc GStat_"
+title: "Shih Ching Fu"
 ---
 
-Shih Ching is an research statistician based in Perth, Western Australia. With backgrounds in Computer Science and Applied Statistics, Shih Ching enjoys the computational side of problem solving and introducing people to the loveliness of [R](https://cran.r-project.org/).
+Welcome to my academic website where you can find links to my recent publications, talks, and tutorials.
 
-Shih Ching has previously been a researcher in mineral exploration, a product owner at a software startup, a biostatistical consultant at a university, and worked with data from astronomy, law enforcement, defence, agriculture, and health care.
+I'm currently based at [Curtin University](https://curtin.edu.au) as a consultant biostatistician at the [Clinical Trials Enablement Platform WA](https://ccre.org.au/ctep-wa/) (CTEP-WA).
 
 > “To understand God's thoughts we must study statistics, for these are the measure of his purpose.”<br>
 >   -- Florence Nightingale 

@@ -1,5 +1,5 @@
 ---
-title: "Primers"
+title: "R Tutorials"
 ---
 
 * [Introduction to R Markdown](https://shihchingfu.github.io/intro-to-rmd/)
