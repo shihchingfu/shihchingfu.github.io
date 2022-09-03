@@ -4,6 +4,7 @@ title: "Research Interests"
 
 * Statistical modelling & simulation
 * Bayesian inference
+* Astrostatistics
 * Statistics education & consulting
 * Computer vision & image processing
 
@@ -16,5 +17,5 @@ title: "Research Interests"
 * Budding [Julian](https://julialang.org/)
 * Follower of Jesus Christ
 
-> "The best thing about being a statistician is that you get to play in everyone's backyard."<br>
->   -- John Tukey
+> “To understand God's thoughts we must study statistics, for these are the measure of his purpose.”<br>
+>   -- Florence Nightingale 

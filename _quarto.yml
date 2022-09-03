@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Shih Ching Fu"
+  search: false
   page-footer:
     center:
       - icon: github
@@ -20,10 +21,8 @@ website:
         href: mailto:shihching.fu@gmail.com
   navbar:
     title: false
-    search: false
     left:
       - href: index.qmd
-        text: Shih Ching Fu
       - href: interests.qmd
         text: Interests
       - href: publications.qmd

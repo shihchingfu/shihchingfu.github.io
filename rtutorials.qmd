@@ -7,3 +7,6 @@ title: "R Tutorials"
 * [`pwr` package Primer](https://shihchingfu.github.io/pwr-examples/)
 * [`tidyr` Tutorial](https://shihchingfu.github.io/tidyr-tutorial/)
 * [Tuning kNN using `caret`](https://shihchingfu.github.io/knn-caret-example/)
+
+> “We need to design aircraft or automotive displays to counteract visual illusions and we need to design statistical graphics to counteract probability illusions.”<br>
+>  -― Leland Wilkinson
