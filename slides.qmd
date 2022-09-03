@@ -9,4 +9,4 @@ title: "Slides"
 [Essential Statistical Concepts for Understanding the COVID-19 Pandemic](/pdf/PEG_20220330.pdf), Perth Epidemiology Group, 30 March 2022. [Online](https://youtu.be/fOKG_4YWhO8).
 
 > "The best thing about being a statistician is that you get to play in everyone's backyard."<br>
->   -- John Tukey
+> -- John Tukey

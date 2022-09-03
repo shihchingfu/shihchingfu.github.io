@@ -23,4 +23,4 @@ Holden, E. J., Kovesi, P., Dentith, M. C., Wedge, D., Wong, J. C., & Fu, S. C. (
 Fu, S. C., & Milne, G. (2004). A Flexible Automata Model for Disease Simulation. In _Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics_) (Vol. 3305, pp. 642–649). <https://doi.org/10.1007/978-3-540-30479-1_66>
 
 > "Don’t forget that statisticians are the free-est of all scientists - they can work on anything."<br>
->   -- David R. Brillinger 
+> -- David R. Brillinger 
