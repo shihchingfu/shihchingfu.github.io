@@ -7,17 +7,13 @@ website:
   search: false
   page-footer:
     center:
-      - icon: github
-        text: Github
+      - text: Github
         href: https://github.com/shihchingfu
-      - icon: twitter
-        text: Twitter
+      - text: Twitter
         href: https://twitter.com/shihchingfu
-      - icon: linkedin
-        text: LinkedIn
+      - text: LinkedIn
         href: https://www.linkedin.com/in/shihchingfu
-      - icon: envelope
-        text: Email 
+      - text: Email 
         href: mailto:shihching.fu@gmail.com
   navbar:
     title: false
