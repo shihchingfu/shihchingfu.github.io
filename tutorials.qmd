@@ -1,5 +1,5 @@
 ---
-title: "R Tutorials"
+title: "Code Tutorials"
 ---
 
 * [Introduction to R Markdown](https://shihchingfu.github.io/intro-to-rmd/)

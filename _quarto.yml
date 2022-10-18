@@ -25,12 +25,12 @@ website:
         text: Publications
       - href: slides.qmd
         text: Slides
-      - href: rtutorials.qmd
-        text: R Tutorials
+      - href: tutorials.qmd
+        text: Tutorials
 
 format:
   html:
-    theme: spacelab
+    theme: simplex
     
 
 
