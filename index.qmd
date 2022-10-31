@@ -2,11 +2,11 @@
 title: "Shih Ching Fu"
 ---
 
-I'm currently based at [Curtin University](https://curtin.edu.au) as a Research Associate in the [Clinical Trials Enablement Platform WA](https://ccre.org.au/ctep-wa/) (CTEP-WA); funded by a [WAHTN](https://wahtn.org) Biostatistican Fellowship.
+I'm a researcher at [Curtin University](https://curtin.edu.au) associated with the Curtin Institute of Radio Astronomy ([CIRA](https://astronomy.curtin.edu.au/)) and the Clinical Trials Enablement Platform WA ([CTEP-WA](https://ccre.org.au/ctep-wa/)).
 
 My other activities include being Secretary of the WA Branch of the [Statistical Society of Australia](https://statsoc.org.au) (SSA) and delivering [R](https://www.r-project.org/) training as a certified [Carpentries](https://carpentries.org/) Instructor.
 
-You can contact me via any of the channels found at the bottom of this page.
+Contact me via the channels found at the bottom of this page.
 
 > “It is a capital mistake to theorize before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts.”<br>
 > -- Sherlock Holmes 
