@@ -9,8 +9,8 @@ website:
     center:
       - text: Github
         href: https://github.com/shihchingfu
-      - text: Twitter
-        href: https://twitter.com/shihchingfu
+      - text: Mastodon
+        href: https://mastodon.online/@shihchingfu
       - text: LinkedIn
         href: https://www.linkedin.com/in/shihchingfu
       - text: Email 
