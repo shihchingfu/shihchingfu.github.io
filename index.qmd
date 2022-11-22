@@ -2,7 +2,7 @@
 title: "Shih Ching Fu"
 ---
 
-I'm a biostatistician at the Clinical Trials Enablement Platform WA ([CTEP-WA](https://ccre.org.au/ctep-wa/)) which based at [Curtin University](https://curtin.edu.au), and a graduate student with the Curtin Institute of Radio Astronomy ([CIRA](https://astronomy.curtin.edu.au/)).
+I'm a graduate student at the Curtin Institute of Radio Astronomy ([CIRA](https://astronomy.curtin.edu.au/)) where I'm looking at radio light curves.
 
 My other activities include being Secretary of the WA Branch of the [Statistical Society of Australia](https://statsoc.org.au) (SSA) and delivering [R](https://www.r-project.org/) training as a certified [Carpentries](https://carpentries.org/) Instructor.
 
