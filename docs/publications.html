@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.1.189">
+<meta name="generator" content="quarto-1.2.280">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -64,19 +64,24 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html">Shih Ching Fu</a>
+    <a class="nav-link" href="./index.html">
+ <span class="menu-text">Shih Ching Fu</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./interests.html">Interests</a>
+    <a class="nav-link" href="./interests.html">
+ <span class="menu-text">Interests</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./publications.html" aria-current="page">Publications</a>
+    <a class="nav-link active" href="./publications.html" aria-current="page">
+ <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./slides.html">Slides</a>
+    <a class="nav-link" href="./slides.html">
+ <span class="menu-text">Slides</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./tutorials.html">Tutorials</a>
+    <a class="nav-link" href="./tutorials.html">
+ <span class="menu-text">Tutorials</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -101,6 +106,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-title-meta">
 
     
+  
     
   </div>
   
@@ -108,6 +114,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 <p>ORCiD: <a href="https://orcid.org/0000-0002-9077-6026">0000-0002-9077-6026</a></p>
+<p>Kutzer, Y., Whitehead, L., Quigley, E., Fu, S. C., Stanley, M. (2023). Subjective versus Objective Sleep Outcomes in Older Adults with and without Uncoupled Sleep Following Online Cognitive Behavioural Therapy for Insomnia, <em>Psychogeriatrics</em>, <a href="https://doi.org/10.1111/psyg.12931" class="uri">https://doi.org/10.1111/psyg.12931</a></p>
 <p>Rees, J., Fu, S. C., Lo, J., Sambell, R., Lewis J. R., Christophersen, C. T., Byrne, M. F., Newton, R. U., Boyle, S., Devine, A. (2022). How a 7-Week Food Literacy Cooking Program Affects Cooking Confidence and Mental Health: Findings of a Quasi-Experimental Controlled Intervention Trial, <em>Frontiers in Nutrition</em>, Volume 9, March. <a href="https://doi.org/10.3389/fnut.2022.802940" class="uri">https://doi.org/10.3389/fnut.2022.802940</a></p>
 <p>Maisey, G., Cattani, M., Devine, A., Lo, J., Fu, S. C., Dunican, I. C. (2022). Digging for data: How sleep is losing out to roster design, sleep disorders, and lifestyle factors, <em>Applied Ergonomics</em>, Volume 99, February. <a href="https://doi.org/10.1016/j.apergo.2021.103617" class="uri">https://doi.org/10.1016/j.apergo.2021.103617</a></p>
 <p>Reyes, A., Bartlett D. M., Rankin T. J., Zaenker P., Turner K., Teo W-P., Fu S. C., et al.&nbsp;(2021). Clinical Determinants of Dual Tasking in People With Premanifest Huntington Disease. <em>Physical Therapy</em>, January. <a href="https://doi.org/10.1093/ptj/pzab016" class="uri">https://doi.org/10.1093/ptj/pzab016</a></p>
@@ -165,7 +172,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
     button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
     setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
       button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
@@ -201,24 +225,42 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
   var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
   for (var i=0; i<bibliorefs.length; i++) {
     const ref = bibliorefs[i];
-    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
-    tippyHover(ref, function() {
-      var popup = window.document.createElement('div');
-      cites.forEach(function(cite) {
-        var citeDiv = window.document.createElement('div');
-        citeDiv.classList.add('hanging-indent');
-        citeDiv.classList.add('csl-entry');
-        var biblioDiv = window.document.getElementById('ref-' + cite);
-        if (biblioDiv) {
-          citeDiv.innerHTML = biblioDiv.innerHTML;
-        }
-        popup.appendChild(citeDiv);
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
       });
-      return popup.innerHTML;
-    });
+    }
   }
 });
 </script>
