@@ -2,7 +2,7 @@
 title: "Shih Ching Fu"
 ---
 
-I'm a graduate student at the Curtin Institute of Radio Astronomy ([CIRA](https://astronomy.curtin.edu.au/)) where I'm looking at radio light curves.
+I'm a graduate student at the Curtin Institute of Radio Astronomy ([CIRA](https://astronomy.curtin.edu.au/)). My research involves the application of Bayesian techniques to the analysis of astronomical time-series, namely light curves from radio, optical, and X-ray surveys.
 
 My other activities include being Secretary of the WA Branch of the [Statistical Society of Australia](https://statsoc.org.au) (SSA) and delivering [R](https://www.r-project.org/) training as a certified [Carpentries](https://carpentries.org/) Instructor.
 
