@@ -10,5 +10,7 @@ title: "Slides"
 
 [Identifying Black Holes and Neutron Stars in Large Astronomical Surveys using Gaussian Processes](/pdf/M1_20230515.pdf), Curtin University HDR Milestone 1 presentation, 15 May 2023.
 
+[Identifying Astronomical Transients in Large Scale Surveys using Gaussian Processes](/pdf/ASC2023.pdf), Australian Statistical Conference, University of Wollongong, 10 -- 14 December 2023.
+
 > "The best thing about being a statistician is that you get to play in everyone's backyard."<br>
 > -- John Tukey
