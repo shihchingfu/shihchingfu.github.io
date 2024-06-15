@@ -12,5 +12,7 @@ title: "Slides"
 
 [Identifying Astronomical Transients in Large Scale Surveys using Gaussian Processes](/pdf/ASC2023.pdf), Australian Statistical Conference, University of Wollongong, 10 -- 14 December 2023.
 
+[Beyond Light Curve Smoothing: Gaussian Processes as Vivid Descriptors of Variables and Transients](/pdf/M2_20240610.pdf), Curtin University HDR Milestone 2 presentation, 10 June 2024.
+
 > "The best thing about being a statistician is that you get to play in everyone's backyard."<br>
 > -- John Tukey
