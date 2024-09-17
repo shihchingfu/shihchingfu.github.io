@@ -14,5 +14,7 @@ title: "Slides"
 
 [Beyond Light Curve Smoothing: Gaussian Processes as Vivid Descriptors of Variables and Transients](/pdf/M2_20240610.pdf), Curtin University HDR Milestone 2 presentation, 10 June 2024.
 
+[Gaussian process models for identifying variables and transients in large astronomical surveys](/pdf/ICL_20240916.pdf), Imperial College London, Astrophysics Group, 16 September 2024.
+
 > "The best thing about being a statistician is that you get to play in everyone's backyard."<br>
 > -- John Tukey
