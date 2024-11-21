@@ -2,19 +2,23 @@
 title: "Slides"
 ---
 
-[Using Bayesian Networks to Identify Significant Crime Events](/pdf/YSW2020.pdf), Young Statisticians Workshop, 30 September 2020. Perth, Western Australia.
+[Using Bayesian Networks to Identify Significant Crime Events](pdf/YSW2020.pdf), Young Statisticians Workshop, 30 September 2020. Online.
 
-[Kriging vs Geographically Weighted Regression for Analysing Farm Experiments](/pdf/ECSSC2021.pdf), Early Career and Student Statisticians Conference, 24 July -- 1 August 2021. [Online](https://youtu.be/FDilpvd5WZA).
+[Kriging vs Geographically Weighted Regression for Analysing Farm Experiments](pdf/ECSSC2021.pdf), Early Career and Student Statisticians Conference, 27 July 2021. [Online](https://youtu.be/FDilpvd5WZA).
 
-[Essential Statistical Concepts for Understanding the COVID-19 Pandemic](/pdf/PEG_20220330.pdf), Perth Epidemiology Group, 30 March 2022. [Online](https://youtu.be/fOKG_4YWhO8).
+[Essential Statistical Concepts for Understanding the COVID-19 Pandemic](pdf/PEG_20220330.pdf), Perth Epidemiology Group, 30 March 2022. [Online](https://youtu.be/fOKG_4YWhO8).
 
-[Identifying Black Holes and Neutron Stars in Large Astronomical Surveys using Gaussian Processes](/pdf/M1_20230515.pdf), Curtin University HDR Milestone 1 presentation, 15 May 2023.
+[Identifying Black Holes and Neutron Stars in Large Astronomical Surveys using Gaussian Processes](pdf/M1_20230515.pdf), HDR Milestone 1 presentation, Curtin University, 15 May 2023.
 
-[Identifying Astronomical Transients in Large Scale Surveys using Gaussian Processes](/pdf/ASC2023.pdf), Australian Statistical Conference, University of Wollongong, 10 -- 14 December 2023.
+[Identifying Astronomical Transients in Large Scale Surveys using Gaussian Processes](pdf/ASC2023.pdf), Australian Statistical Conference, University of Wollongong, 14 December 2023.
 
-[Beyond Light Curve Smoothing: Gaussian Processes as Vivid Descriptors of Variables and Transients](/pdf/M2_20240610.pdf), Curtin University HDR Milestone 2 presentation, 10 June 2024.
+[Beyond Light Curve Smoothing: Gaussian Processes as Vivid Descriptors of Variables and Transients](pdf/M2_20240610.pdf), HDR Milestone 2 presentation, Curtin University, 10 June 2024.
 
-[Gaussian process models for identifying variables and transients in large astronomical surveys](/pdf/ICL_20240916.pdf), Imperial College London, Astrophysics Group, 16 September 2024.
+[Gaussian process models for identifying variables and transients in large astronomical surveys](pdf/ICL_20240916.pdf), Astrophysics Group, Imperial College London, 16 September 2024.
+
+[Gaussian process regression for identifying variables and transients in ThunderKAT](pdf/XKAT2024.pdf), ThunderKAT & X-KAT meeting, Politecnico di Milano Lecco Campus, 24 September 2024.
+
+[Playing in the Cosmic Backyard: A Statistician’s Journey into Astronomy](pdf/ECSSC2024.pdf), Early Career and Student Statisticians Conference, Curtin University, 19 November 2024.
 
 > "The best thing about being a statistician is that you get to play in everyone's backyard."<br>
 > -- John Tukey
