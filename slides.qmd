@@ -14,6 +14,8 @@ title: "Slides"
 
 [Beyond Light Curve Smoothing: Gaussian Processes as Vivid Descriptors of Variables and Transients](pdf/M2_20240610.pdf), HDR Milestone 2 presentation, Curtin University, 10 June 2024.
 
+[Identifying transient astronomical sources in MeerKAT light curves using Gaussian processes](pdf/AASC2024.pdf), Australasian Applied Statistics Conference, Rottnest Island, 4 September 2024.
+
 [Gaussian process models for identifying variables and transients in large astronomical surveys](pdf/ICL_20240916.pdf), Astrophysics Group, Imperial College London, 16 September 2024.
 
 [Gaussian process regression for identifying variables and transients in ThunderKAT](pdf/XKAT2024.pdf), ThunderKAT & X-KAT meeting, Politecnico di Milano Lecco Campus, 24 September 2024.
