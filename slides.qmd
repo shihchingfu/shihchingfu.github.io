@@ -20,7 +20,7 @@ title: "Slides"
 
 [Gaussian process regression for identifying variables and transients in ThunderKAT](pdf/XKAT2024.pdf), ThunderKAT & X-KAT meeting, Politecnico di Milano Lecco Campus, 24 September 2024.
 
-[Playing in the Cosmic Backyard: A Statistician’s Journey into Astronomy](pdf/ECSSC2024.pdf), Early Career and Student Statisticians Conference, Curtin University, 19 November 2024.
+[Playing in the Cosmic Backyard: A Statistician’s Journey into Astronomy](pdf/ECSSC2024.pdf), Early Career and Student Statisticians Conference, Curtin University, 19 November 2024. [Online](https://www.youtube.com/embed/QI1gFWM3IsQ?start=50&end=676)
 
 > "The best thing about being a statistician is that you get to play in everyone's backyard."<br>
 > -- John Tukey
