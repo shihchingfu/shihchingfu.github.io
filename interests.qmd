@@ -6,7 +6,6 @@ title: "Research Interests"
 * Bayesian inference
 * Astrostatistics
 * Statistics education & consulting
-* Computer vision & image processing
 
 # Other
 
@@ -14,7 +13,6 @@ title: "Research Interests"
 * Novice [lockpicker](https://archive.org/details/MITLockGuide)
 * [Sherlock](https://standardebooks.org/ebooks/?query=sherlock) tragic
 * Dilettante [golfer](https://web.archive.org/web/20200815185823/http://golfwa.org.au/common/content/past14yearchampions)
-* Budding [Julian](https://julialang.org/)
 * Follower of Jesus Christ
 
 > “To understand God's thoughts we must study statistics, for these are the measure of his purpose.”<br>
