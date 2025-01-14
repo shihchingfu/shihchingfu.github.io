@@ -9,8 +9,8 @@ website:
     center:
       - text: Github
         href: https://github.com/shihchingfu
-      - text: Mastodon
-        href: https://bayes.club/@shihchingfu
+      - text: Bluesky
+        href: https://bsky.app/profile/shihchingfu.com
       - text: LinkedIn
         href: https://www.linkedin.com/in/shihchingfu
       - text: Email 
