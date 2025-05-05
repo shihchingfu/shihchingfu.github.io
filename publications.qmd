@@ -1,5 +1,5 @@
 ---
-title: "Selected Publications^[See [here](https://doi.org/10.1038/d41586-024-02596-y) for why journal titles are omitted.]"
+title: "Selected Publications^[[Why I’ve removed journal titles from the papers on my CV](https://doi.org/10.1038/d41586-024-02596-y)]"
 ---
 
 ORCiD: [0000-0002-9077-6026](https://orcid.org/0000-0002-9077-6026)
@@ -12,7 +12,7 @@ ORCiD: [0000-0002-9077-6026](https://orcid.org/0000-0002-9077-6026)
 
 ### 2024
 
-- Wallace, R., Sambell, R. **Fu, S. C.**, Lo, J., Cook, E. J., Devine A (2024). Enhancing Nutrition Information Utilisation, Confidence, and Role Legitimacy and Adequacy among Early Childhood Education Professionals through Evidence-Based Online Training. <https://doi.org/10.1177/18369391241270539>
+- Wallace, R., Sambell, R. **Fu, S. C.**, Lo, J., Cook, E. J., Devine A. (2024). Enhancing Nutrition Information Utilisation, Confidence, and Role Legitimacy and Adequacy among Early Childhood Education Professionals through Evidence-Based Online Training. <https://doi.org/10.1177/18369391241270539>
 
 ### 2023
 
