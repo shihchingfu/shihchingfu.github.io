@@ -6,9 +6,11 @@ ORCiD: [0000-0002-9077-6026](https://orcid.org/0000-0002-9077-6026)
 
 ### 2025
 
+- Baddeley, A., Brown, W. , Nair, G., Milne, R., Rakshit, S., **Fu, S. C.**. (2025). Mineral Prospectivity Analysis Is Unstable to Changes in Pixel Size. <https://doi.org/10.1016/j.cageo.2025.105965>
+
 - Wing, C., Hart N. H., **Fu, S. C.**, Nosaka K., Ma’ayah F. (2025). The Use of K-Means Clustering for the Organisation of Training Groups in Australian Football. <https://doi.org/10.1177/17479541251333925>
 
-- Dage, K. C., E. Tremou, B. C. Otahola, E. W. Koch, K. Oh, R. M. Plotkin, V. L. Tang, M. R. Aldhalemi, Z. Bustani, M. I. Fawaz, ..., **Fu, S. C.**, et al. (2025). Detecting the Black Hole Candidate Population in M51’s Young Massive Star Clusters: Constraints on Accreting Intermediate-mass Black Holes. <https://doi.org/10.3847/1538-4357/ad9d37>
+- Dage, K. C., Tremou, E., Otahola, B. C., Koch, E. W., Oh, K., Plotkin, R. M., Tang,  V. L., Aldhalemi,  M. R., Bustani, Z., Fawaz, M. I., ..., **Fu, S. C.**, et al. (2025). Detecting the Black Hole Candidate Population in M51’s Young Massive Star Clusters: Constraints on Accreting Intermediate-mass Black Holes. <https://doi.org/10.3847/1538-4357/ad9d37>
 
 ### 2024
 
