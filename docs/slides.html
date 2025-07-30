@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -31,10 +31,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-6a5c1b4e710cb0a224a6df6d69179b80.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -129,6 +129,7 @@ ul.task-list li input[type="checkbox"] {
 <p><a href="pdf/ICL_20240916.pdf">Gaussian process models for identifying variables and transients in large astronomical surveys</a>, Astrophysics Group, Imperial College London, 16 September 2024.</p>
 <p><a href="pdf/XKAT2024.pdf">Gaussian process regression for identifying variables and transients in ThunderKAT</a>, ThunderKAT &amp; X-KAT meeting, Politecnico di Milano Lecco Campus, 24 September 2024.</p>
 <p><a href="pdf/ECSSC2024.pdf">Playing in the Cosmic Backyard: A Statistician’s Journey into Astronomy</a>, Early Career and Student Statisticians Conference, Curtin University, 19 November 2024. <a href="https://www.youtube.com/embed/QI1gFWM3IsQ?start=50&amp;end=676">Online</a></p>
+<p><a href="pdf/DRS2025.pdf">Robust characterisation of transient radio light curves using Gaussian process regression</a>, The Dynamic Radio Sky 2025, The University of Sydney, 29 July 2025.</p>
 <blockquote class="blockquote">
 <p>“The best thing about being a statistician is that you get to play in everyone’s backyard.”<br> – John Tukey</p>
 </blockquote>
@@ -218,8 +219,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -330,7 +329,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
