@@ -6,6 +6,8 @@ ORCiD: [0000-0002-9077-6026](https://orcid.org/0000-0002-9077-6026)
 
 ### 2025
 
+- **Fu, S. C.**, Bahramian, A., Phatak, A., Miller-Jones, J. C. A., Rakshit, S., Andersson, A., Fender, R., Woudt, P. A. (2025). New Metrics for Identifying Variables and Transients in Large Astronomical Surveys. <https://doi.org/10.48550/arXiv.2508.09441>
+
 - Baddeley, A., Brown, W. , Nair, G., Milne, R., Rakshit, S., **Fu, S. C.**. (2025). Mineral Prospectivity Analysis Is Unstable to Changes in Pixel Size. <https://doi.org/10.1016/j.cageo.2025.105965>
 
 - Wing, C., Hart N. H., **Fu, S. C.**, Nosaka K., Ma’ayah F. (2025). The Use of K-Means Clustering for the Organisation of Training Groups in Australian Football. <https://doi.org/10.1177/17479541251333925>
